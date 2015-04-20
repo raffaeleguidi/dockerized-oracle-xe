@@ -35,6 +35,15 @@ Password for SYS & SYSTEM
 oracle
 ```
 
+APEX - Application Express 
+```
+http://<ipaddress of your VM>:48080/apex
+Workspace: INTERNAL
+Username: ADMIN
+Password: oracle
+```
+
+
 Login by SSH
 ```
 ssh root@localhost -p 40022
