@@ -18,7 +18,7 @@ docker run --name oracle-base -d \
                   -p 40022:22 \
                   -p 41521:1521 \
                   -p 48080:8080 \
-                  raffaeleguidi/dockerized-oracle-xe
+                  raffaeleguidi/oracle-xe
 ```
 
 Connect database with following setting:
