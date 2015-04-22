@@ -9,7 +9,7 @@ Apart being a learning experiment it fixes a long delay in SSH login disabling D
 
 ### Installation
 ```
-docker pull raffaeleguidi/dockerized-oracle-xe
+docker pull raffaeleguidi/oracle-xe
 ```
 
 Run with 22, 8080 and 1521 ports opened:
